@@ -137,8 +137,8 @@ Este diseño responde directamente a la recomendación de la consigna: *"si la a
 ## 7. Cómo ejecutar la notebook
 
 ```bash
-git clone https://github.com/<tu-usuario>/aptia-fast-prompting.git
-cd aptia-fast-prompting
+git clone https://github.com/Nandhobj/Entrega-Final-Inteligencia-artificial-Generaci-n-de-Prompts.git
+cd Entrega-Final-Inteligencia-artificial-Generaci-n-de-Prompts
 pip install -r requirements.txt
 jupyter notebook Aptia_FastPrompting_POC.ipynb
 ```
