@@ -113,7 +113,7 @@ Los tres prompts usados, junto con la imagen generada para cada uno, están docu
 
 🎨 [`prompts_imagenes.md`](./prompts_imagenes.md)
 
-> **Pendiente:** las imágenes generadas con NightCafe se agregan a la carpeta `/imagenes` y se enlazan en ese archivo antes de la entrega final.
+Las tres imágenes generadas con NightCafe están en la carpeta [`/imagenes`](./imagenes) y embebidas en ese mismo archivo.
 
 ## 7. Resultados
 
