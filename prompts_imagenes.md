@@ -20,9 +20,7 @@ Fondo blanco o transparente. Formato cuadrado, apto para ícono de app.
 
 **Resultado:**
 
-`[imagenes/logo_aptia.png]`
-
-*(Reemplazar esta línea por: `![Logo de Aptia](imagenes/logo_aptia.png)` una vez subida la imagen.)*
+![Logo de Aptia](imagenes/logo_aptia.png)
 
 ---
 
@@ -42,9 +40,7 @@ tipografía sans-serif moderna, alto contraste y legibilidad.
 
 **Resultado:**
 
-`[imagenes/mockup_app_aptia.png]`
-
-*(Reemplazar esta línea por: `![Mockup de la app Aptia](imagenes/mockup_app_aptia.png)` una vez subida la imagen.)*
+![Mockup de la app Aptia](imagenes/mockup_app_aptia.png)
 
 ---
 
@@ -64,6 +60,4 @@ paleta cálida de fondo).
 
 **Resultado:**
 
-`[imagenes/pieza_publicitaria_aptia.png]`
-
-*(Reemplazar esta línea por: `![Pieza publicitaria de Aptia](imagenes/pieza_publicitaria_aptia.png)` una vez subida la imagen.)*
+![Pieza publicitaria de Aptia](imagenes/pieza_publicitaria_aptia.png)
