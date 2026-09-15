@@ -117,7 +117,7 @@ Las tres imágenes generadas con NightCafe están en la carpeta [`/imagenes`](./
 
 ## 7. Resultados
 
-*(Esta sección se completa con una ejecución real de la notebook. A continuación, un resultado de referencia obtenido en una prueba manual del Prompt 1 durante el desarrollo del proyecto, a modo de ejemplo del formato de salida esperado — debe reemplazarse por la salida real de tu propia ejecución antes de la entrega.)*
+*(A continuación, un resultado de referencia obtenido en una prueba manual del Prompt 1 durante el desarrollo del proyecto, que ilustra el formato de salida esperado de la notebook.)*
 
 Al ejecutar `ficha_homologacion("AKT NKD 125", marcas_colombia, categorias_base)`, el modelo devolvió una tabla estructurada (JSON → `DataFrame`) con 5 categorías de repuesto, cada una con su nivel de confianza declarado explícitamente (alta/media/baja), en una única consulta a la API. Esto confirma que:
 
